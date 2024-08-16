@@ -1,0 +1,27 @@
+[
+    {
+        "title": "PC Gamer 1",
+        "image": "https://i.ytimg.com/vi/2kIvy33iueU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBlrpAqnUGFtrl_YcwTrpyJHV3qnQ",
+        "link": "https://example.com/product1"
+    },
+    {
+        "title": "PC Gamer 2",
+        "image": "https://i.ytimg.com/vi/2kIvy33iueU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBlrpAqnUGFtrl_YcwTrpyJHV3qnQ",
+        "link": "https://example.com/product2"
+    },
+    {
+        "title": "PC Gamer 3",
+        "image": "https://i.ytimg.com/vi/2kIvy33iueU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBlrpAqnUGFtrl_YcwTrpyJHV3qnQ",
+        "link": "https://example.com/product3"
+    },
+    {
+        "title": "PC Gamer 4",
+        "image": "https://i.ytimg.com/vi/2kIvy33iueU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBlrpAqnUGFtrl_YcwTrpyJHV3qnQ",
+        "link": "https://example.com/product4"
+    },
+    {
+        "title": "PC Gamer 5",
+        "image": "https://i.ytimg.com/vi/2kIvy33iueU/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLBlrpAqnUGFtrl_YcwTrpyJHV3qnQ",
+        "link": "https://example.com/product5"
+    }
+]
