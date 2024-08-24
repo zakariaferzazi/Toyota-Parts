@@ -1,21 +1,2 @@
 
-{name: test.json, path: test.json, sha: 56dee42c1047f3bd2d7361eb2453e1b6df84e954, size: 853, url: https://api.github.com/repos/zakariaferzazi/Toyota-Parts/contents/test.json?ref=master, html_url: https://github.com/zakariaferzazi/Toyota-Parts/blob/master/test.json, git_url: https://api.github.com/repos/zakariaferzazi/Toyota-Parts/git/blobs/56dee42c1047f3bd2d7361eb2453e1b6df84e954, download_url: https://raw.githubusercontent.com/zakariaferzazi/Toyota-Parts/master/test.json, type: file, content: CntuYW1lOiB0ZXN0Lmpzb24sIHBhdGg6IHRlc3QuanNvbiwgc2hhOiA2MWRk
-OGIwZGY2MTk4YjQ1Y2M5YmZkN2MzMjFhMWY3NjYwNzhhYzczLCBzaXplOiAy
-OCwgdXJsOiBodHRwczovL2FwaS5naXRodWIuY29tL3JlcG9zL3pha2FyaWFm
-ZXJ6YXppL1RveW90YS1QYXJ0cy9jb250ZW50cy90ZXN0Lmpzb24/cmVmPW1h
-c3RlciwgaHRtbF91cmw6IGh0dHBzOi8vZ2l0aHViLmNvbS96YWthcmlhZmVy
-emF6aS9Ub3lvdGEtUGFydHMvYmxvYi9tYXN0ZXIvdGVzdC5qc29uLCBnaXRf
-dXJsOiBodHRwczovL2FwaS5naXRodWIuY29tL3JlcG9zL3pha2FyaWFmZXJ6
-YXppL1RveW90YS1QYXJ0cy9naXQvYmxvYnMvNjFkZDhiMGRmNjE5OGI0NWNj
-OWJmZDdjMzIxYTFmNzY2MDc4YWM3MywgZG93bmxvYWRfdXJsOiBodHRwczov
-L3Jhdy5naXRodWJ1c2VyY29udGVudC5jb20vemFrYXJpYWZlcnphemkvVG95
-b3RhLVBhcnRzL21hc3Rlci90ZXN0Lmpzb24sIHR5cGU6IGZpbGUsIGNvbnRl
-bnQ6IGFIUjBjSE02THk5bGVHRnRjR3hsTG1OdmJTOXdjbTlrZFdOME5RPT0K
-LCBlbmNvZGluZzogYmFzZTY0LCBfbGlua3M6IHtzZWxmOiBodHRwczovL2Fw
-aS5naXRodWIuY29tL3JlcG9zL3pha2FyaWFmZXJ6YXppL1RveW90YS1QYXJ0
-cy9jb250ZW50cy90ZXN0Lmpzb24/cmVmPW1hc3RlciwgZ2l0OiBodHRwczov
-L2FwaS5naXRodWIuY29tL3JlcG9zL3pha2FyaWFmZXJ6YXppL1RveW90YS1Q
-YXJ0cy9naXQvYmxvYnMvNjFkZDhiMGRmNjE5OGI0NWNjOWJmZDdjMzIxYTFm
-NzY2MDc4YWM3MywgaHRtbDogaHR0cHM6Ly9naXRodWIuY29tL3pha2FyaWFm
-ZXJ6YXppL1RveW90YS1QYXJ0cy9ibG9iL21hc3Rlci90ZXN0Lmpzb259fQ==
-, encoding: base64, _links: {self: https://api.github.com/repos/zakariaferzazi/Toyota-Parts/contents/test.json?ref=master, git: https://api.github.com/repos/zakariaferzazi/Toyota-Parts/git/blobs/56dee42c1047f3bd2d7361eb2453e1b6df84e954, html: https://github.com/zakariaferzazi/Toyota-Parts/blob/master/test.json}}
+https://example.com/product1
