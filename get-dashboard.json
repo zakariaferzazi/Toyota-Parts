@@ -1,30 +1,11 @@
 [
-  {
-    "title": "Gloss Metallic Rosewood Red Vinyl Wrap",
-    "imageUrl": "https://raxtify.com/cdn/shop/files/GlossMetallicRosewoodRedVinylWrapbyRAXTiFY.jpg",
-    "category": "Oxygen Sensor",
 
-    "price": "$19.99",
-    "rating": 4.5,
-    "reviewCount": 3999,
-    "affiliateLink": "https://www.amazon.com/dp/exampleproduct1"
-  },
-  {
-    "title": "Color Shift Rainbow Drift Black Red Vinyl Wrap",
-    "imageUrl": "https://raxtify.com/cdn/shop/files/ColorShiftRainbowDriftBlackRedVinylWrapbyRAXTiFY.jpg",
-    "category": "Oxygen Sensor",
-
-    "price": "$12.99",
-    "rating": 4.7,
-    "reviewCount": 200,
-    "affiliateLink": "https://www.amazon.com/dp/exampleproduct2"
-  },
   {
     "title": "Satin Chrome Silk Oxide Red Vinyl Wrap",
     "imageUrl": "https://raxtify.com/cdn/shop/files/chargerwrappedinSatinChromeSilkOxideRedVinylWrap.jpg",
     "category": "Mountain Sunrise",
 
-    "price": "$29.99",
+    "price": "29.99",
     "rating": 4.3,
     "reviewCount": 90,
     "affiliateLink": "https://www.amazon.com/dp/exampleproduct3"
@@ -34,7 +15,7 @@
     "imageUrl": "https://raxtify.com/cdn/shop/files/Matte_satin_black_wrap.jpg",
     "category": "Mountain Sunrise",
 
-    "price": "$25.99",
+    "price": "25.99",
     "rating": 4.6,
     "reviewCount": 120,
     "affiliateLink": "https://www.amazon.com/dp/exampleproduct4"
@@ -44,7 +25,7 @@
     "imageUrl": "https://raxtify.com/cdn/shop/files/GlossMetallicGlitterDiamondBlackCarWrap.jpg",
     "category": "Oxygen Sensor",
 
-    "price": "$49.99",
+    "price": "49.99",
     "rating": 4.4,
     "reviewCount": 80,
     "affiliateLink": "https://www.amazon.com/dp/exampleproduct5"
@@ -54,17 +35,37 @@
     "imageUrl": "https://raxtify.com/cdn/shop/files/Satin_Chrome_AMG_Gray_Car_Wrap.jpg",
     "category": "Oxygen Sensor",
 
-    "price": "$15.99",
+    "price": "15.99",
     "rating": 4.2,
     "reviewCount": 65,
     "affiliateLink": "https://www.amazon.com/dp/exampleproduct6"
+  },
+    {
+    "title": "Gloss Metallic Rosewood Red Vinyl Wrap",
+    "imageUrl": "https://raxtify.com/cdn/shop/files/GlossMetallicRosewoodRedVinylWrapbyRAXTiFY.jpg",
+    "category": "Oxygen Sensor",
+
+    "price": "19.99",
+    "rating": 4.5,
+    "reviewCount": 3999,
+    "affiliateLink": "https://www.amazon.com/dp/exampleproduct1"
+  },
+  {
+    "title": "Color Shift Rainbow Drift Black Red Vinyl Wrap",
+    "imageUrl": "https://raxtify.com/cdn/shop/files/ColorShiftRainbowDriftBlackRedVinylWrapbyRAXTiFY.jpg",
+    "category": "Oxygen Sensor",
+
+    "price": "12.99",
+    "rating": 4.7,
+    "reviewCount": 200,
+    "affiliateLink": "https://www.amazon.com/dp/exampleproduct2"
   },
   {
     "title": "Pixel 8 Pro Stand",
     "imageUrl": "https://raxtify.com/cdn/shop/files/GlossMetallicMidnightEmeraldGreenVinylWrap_78e62c56-55ac-4ad4-95e2-108ab960e472.jpg",
     "category": "Oxygen Sensor",
 
-    "price": "$10.99",
+    "price": "10.99",
     "rating": 4.1,
     "reviewCount": 90,
     "affiliateLink": "https://www.amazon.com/dp/exampleproduct7"
@@ -74,7 +75,7 @@
     "imageUrl": "https://raxtify.com/cdn/shop/files/Dodge_charger_wrapped_in_Laser_Gloss_Purple_Vinyl_Wrap.jpg",
     "category": "Mountain Sunrise",
 
-    "price": "$39.99",
+    "price": "39.99",
     "rating": 4.7,
     "reviewCount": 110,
     "affiliateLink": "https://www.amazon.com/dp/exampleproduct8"
@@ -84,7 +85,7 @@
     "imageUrl": "https://raxtify.com/cdn/shop/files/SatinChromeSilkOxideRedVinylWrap_2.jpg",
     "category": "Oxygen Sensor",
 
-    "price": "$29.99",
+    "price": "29.99",
     "rating": 4.5,
     "reviewCount": 140,
     "affiliateLink": "https://www.amazon.com/dp/exampleproduct9"
@@ -94,7 +95,7 @@
     "imageUrl": "https://raxtify.com/cdn/shop/files/IMG_1349.jpg",
     "category": "Oxygen Sensor",
 
-    "price": "$19.99",
+    "price": "19.99",
     "rating": 4.3,
     "reviewCount": 75,
     "affiliateLink": "https://www.amazon.com/dp/exampleproduct10"
@@ -104,7 +105,7 @@
     "imageUrl": "https://i.pcmag.com/imagery/roundups/07nwyhDaNJHr3Jojh0HcO6o-115.fit_lim.size_1050x.jpg",
     "category": "Oxygen Sensor",
 
-    "price": "$199.99",
+    "price": "199.99",
     "rating": 4.8,
     "reviewCount": 220,
     "affiliateLink": "https://www.amazon.com/dp/exampleproduct11"
@@ -114,7 +115,7 @@
     "imageUrl": "https://i.pcmag.com/imagery/roundups/07nwyhDaNJHr3Jojh0HcO6o-115.fit_lim.size_1050x.jpg",
     "category": "Oxygen Sensor",
 
-    "price": "$79.99",
+    "price": "79.99",
     "rating": 4.6,
     "reviewCount": 160,
     "affiliateLink": "https://www.amazon.com/dp/exampleproduct12"
@@ -124,7 +125,7 @@
     "imageUrl": "https://i.pcmag.com/imagery/roundups/07nwyhDaNJHr3Jojh0HcO6o-115.fit_lim.size_1050x.jpg",
     "category": "Oxygen Sensor",
 
-    "price": "$99.99",
+    "price": "99.99",
     "rating": 4.4,
     "reviewCount": 110,
     "affiliateLink": "https://www.amazon.com/dp/exampleproduct13"
@@ -134,7 +135,7 @@
     "imageUrl": "https://i.pcmag.com/imagery/roundups/07nwyhDaNJHr3Jojh0HcO6o-115.fit_lim.size_1050x.jpg",
     "category": "Oxygen Sensor",
 
-    "price": "$24.99",
+    "price": "24.99",
     "rating": 4.3,
     "reviewCount": 45,
     "affiliateLink": "https://www.amazon.com/dp/exampleproduct14"
@@ -144,7 +145,7 @@
     "imageUrl": "https://i.pcmag.com/imagery/roundups/07nwyhDaNJHr3Jojh0HcO6o-115.fit_lim.size_1050x.jpg",
     "category": "Oxygen Sensor",
 
-    "price": "$59.99",
+    "price": "59.99",
     "rating": 4.7,
     "reviewCount": 130,
     "affiliateLink": "https://www.amazon.com/dp/exampleproduct15"
@@ -154,7 +155,7 @@
     "imageUrl": "https://i.pcmag.com/imagery/roundups/07nwyhDaNJHr3Jojh0HcO6o-115.fit_lim.size_1050x.jpg",
     "category": "Oxygen Sensor",
 
-    "price": "$34.99",
+    "price": "34.99",
     "rating": 4.4,
     "reviewCount": 80,
     "affiliateLink": "https://www.amazon.com/dp/exampleproduct16"
@@ -164,7 +165,7 @@
     "imageUrl": "https://i.pcmag.com/imagery/roundups/07nwyhDaNJHr3Jojh0HcO6o-115.fit_lim.size_1050x.jpg",
     "category": "Oxygen Sensor",
 
-    "price": "$15.99",
+    "price": "15.99",
     "rating": 4.2,
     "reviewCount": 50,
     "affiliateLink": "https://www.amazon.com/dp/exampleproduct17"
@@ -174,7 +175,7 @@
     "imageUrl": "https://i.pcmag.com/imagery/roundups/07nwyhDaNJHr3Jojh0HcO6o-115.fit_lim.size_1050x.jpg",
     "category": "Oxygen Sensor",
 
-    "price": "$8.99",
+    "price": "8.99",
     "rating": 4.1,
     "reviewCount": 100,
     "affiliateLink": "https://www.amazon.com/dp/exampleproduct18"
@@ -184,7 +185,7 @@
     "imageUrl": "https://i.pcmag.com/imagery/roundups/07nwyhDaNJHr3Jojh0HcO6o-115.fit_lim.size_1050x.jpg",
     "category": "Oxygen Sensor",
 
-    "price": "$9.99",
+    "price": "9.99",
     "rating": 4.5,
     "reviewCount": 60,
     "affiliateLink": "https://www.amazon.com/dp/exampleproduct19"
@@ -194,7 +195,7 @@
     "imageUrl": "https://i.pcmag.com/imagery/roundups/07nwyhDaNJHr3Jojh0HcO6o-115.fit_lim.size_1050x.jpg",
     "category": "Oxygen Sensor",
 
-    "price": "$49.99",
+    "price": "49.99",
     "rating": 4.8,
     "reviewCount": 200,
     "affiliateLink": "https://www.amazon.com/dp/exampleproduct20"
