@@ -1,16 +1,1 @@
-[
-{
-  "name": "John Doe",
-  "address": "123 Main St, City, Country",
-  "phone": "+1234567890",
-  "brand": "Toyota",
-  "model": "Corolla 2022"
-},
-  {
-  "name": "Zakaria Ferzazi",
-  "address": "123 Main St, City, Morocco",
-  "phone": "+212657347949",
-  "brand": "vw",
-  "model": "golf 2023"
-}
-]
+[{name: John Doe, address: 123 Main St, City, Country, phone: +1234567890, brand: Toyota, model: Corolla 2022}, {name: Zakaria Ferzazi, address: 123 Main St, City, Morocco, phone: +212657347949, brand: vw, model: golf 2023}, {name: samih amin, address: 123 Main St, City, Country, phone: +3333333, brand: Toyota, model: Corolla 1111}]
