@@ -50,5 +50,58 @@
   {
     "title": "Alternator",
     "imageUrl": "https://cdn.shopify.com/s/files/1/1334/2309/files/15_480x480.jpg?v=1642148400"
+  },
+  {
+    "title": "Fuel Filter",
+    "imageUrl": "https://rparts-sites.s3.amazonaws.com/e182d2f8b3d4b93afbd609fbda297d8b/design/toyota-fuel-filter.png"
+  },
+  {
+    "title": "Brake Pads",
+    "imageUrl": "https://www.tateboys.com/wp-content/uploads/sites/16/2023/09/car-brakes-beside-brake-pads.jpg"
+  },
+  {
+    "title": "Wiper Blades",
+    "imageUrl": "https://burggermany.de/wp-content/uploads/2019/07/conventional-wiper.jpg"
+  },
+  {
+    "title": "Headlights",
+    "imageUrl": "https://cms.webuyanycar.com/globalassets/images/headlight.jpg"
+  },
+  {
+    "title": "Taillights",
+    "imageUrl": "https://www.hotcarshop.in/images/Products/2007202328284.jpg"
+  },
+  {
+    "title": "Tires",
+    "imageUrl": "https://assets.bridgestonetire.com/content/dam/consumer/bst/shared/tires/weatherpeak-weatherpeak/side.jpg"
+  },
+  {
+    "title": "Timing Belt",
+    "imageUrl": "https://www.krishnaautoelectric.com/blog/wp-content/uploads/2018/04/What-is-a-Timing-Belt.jpg"
+  },
+  {
+    "title": "Water Pump",
+    "imageUrl": "https://5.imimg.com/data5/JN/JR/MY-16425244/water-pump-assembly-car.jpg"
+  },
+  {
+    "title": "Starter Motor",
+    "imageUrl": "https://lh3.googleusercontent.com/proxy/fXpbde2aL6fwftodQu5pe1-ajyK66nBfNrKOYOivA1JJ6bItLIuLmRQAy77f9bp0rUKv1cHP6JU_HksQq7nOLa6onLj6CFXV-K9G7s5w90QHfHAskU2R0zwUGtKV"
+  },
+  {
+    "title": "Catalytic Converter",
+    "imageUrl": "https://ae01.alicdn.com/kf/Sb62392ecce114748a19b7a67528194099.jpg_640x640Q90.jpg_.webp"
+  },
+  {
+    "title": "Radiator",
+    "imageUrl": "https://haynes.com/en-gb/sites/default/files/styles/unaltered_webp/public/Car%20radiator.jpg?itok=5TVPNwCd&timestamp=1657727540"
+  },
+  {
+    "title": "Thermostat",
+    "imageUrl": "https://savree-storage.s3.amazonaws.com/Articles/optimised/engine-thermostat.jpg"
+  },
+  {
+    "title": "(MAF) Sensor",
+    "imageUrl": "https://m.media-amazon.com/images/I/61VtVVEHu2L.jpg"
   }
+  
 ]
